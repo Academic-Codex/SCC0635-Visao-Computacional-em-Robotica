@@ -1,0 +1,12 @@
+REPO_TAGLINE: Computer vision • robotics • perception
+ASSETS_DIR: .github/readme
+CTA_TEXT: Access the full course website
+THEME: coding
+SITE_URL: https://academic-codex.github.io/SCC0635-Visao-Computacional-em-Robotica
+
+BG_1: "#0C4A6E"
+BG_2: "#075985"
+TEXT_MAIN: "#F0F9FF"
+TEXT_MUTED: "#BAE6FD"
+ACCENT: "#38BDF8"
+CARD_RADIUS: "18"
