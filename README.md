@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://academic-codex.github.io/SCC0635-Visao-Computacional-em-Robotica">
-    <img src=".github/readme/hero.svg?v=2025-12-28T18:33:28.831604Z" width="100%" alt="Access the course website" />
+    <img src=".github/readme/hero.svg?v=2025-12-28T18:34:52.419079Z" width="100%" alt="Access the course website" />
   </a>
 </p>
 
