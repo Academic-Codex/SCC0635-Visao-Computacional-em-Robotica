@@ -3,8 +3,8 @@
 </p> -->
 
 <p align="center">
-  <a href="https://Academic-Codex.github.io/SCC0635-Visao-Computacional-em-Robotica">
-    <img src=".github/readme/hero.svg?v=2026-01-08T01:39:53.387461Z" width="100%" alt="Access the course website" />
+  <a href="https://academic-codex.github.io/SCC0635-Visao-Computacional-em-Robotica?utm_source=SCC0635-Visao-Computacional-em-Robotica&utm_medium=readme">
+    <img src=".github/readme/hero.svg?v=2026-02-03T01:39:53.486989Z" width="100%" alt="Access the course website" />
   </a>
 </p>
 
